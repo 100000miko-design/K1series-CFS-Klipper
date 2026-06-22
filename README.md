@@ -10,3 +10,9 @@ https://github.com/Guilouz/Creality-Helper-Script/
 
 Klipper-CFS
 https://github.com/ityshchenko/klipper-cfs#status
+
+Creality Helper Script Camera Fix on latest firmware
+https://www.reddit.com/r/Ender3V3KE/comments/1sekpp0/creality_helper_script_usb_camera_support_fails/
+
+SLICK1MAX
+https://github.com/crazyslicster/SLICK1MAX
