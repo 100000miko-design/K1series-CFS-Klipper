@@ -1,7 +1,7 @@
 # K1series-CFS-Klipper
 Guide for Creality File System (CFS) to work on Creality K1 series (K1 K1C K1SE) with third party klipper firmware
 
-#Intro
+# Intro
 Since I upgraded CFS to my K1SE, I have spend times to get rid of Creality's closed-source ecosystem and customized my klipper interface. 
 
 This guide is going to save you tones of time if you also own Creality K1 series 3D printer with CFS and though the same as me. 
